@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653174417318",
+    "project_id": "auditoria-c4cf3",
+    "storage_bucket": "auditoria-c4cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653174417318:android:7507b4897e6ad142d85167",
+        "android_client_info": {
+          "package_name": "com.example.auditoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653174417318-jgi54e2utua3v4acqcrqt98k7ik8s7rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOO7sLFe62lKM6HHvc3JGUdISzlLn_HOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653174417318-jgi54e2utua3v4acqcrqt98k7ik8s7rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
