@@ -8,6 +8,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+<p float="left">
+  <img src="/img1.png](https://github.com/FarhanNanoCoder/heartify/blob/main/a-2.jpg)" width="100" />
+</p>
+
 ![Entrance](https://github.com/FarhanNanoCoder/heartify/blob/main/a-2.jpg)
 ![](https://github.com/FarhanNanoCoder/heartify/blob/main/a-3.jpg)
 ![](https://github.com/FarhanNanoCoder/heartify/blob/main/a-8.jpg)
